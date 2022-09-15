@@ -1,0 +1,15 @@
+fastapi==0.78.0
+pydantic==1.8.2
+uvicorn==0.17.6
+gunicorn
+pandas==1.4.2
+numpy==1.22.3
+scipy==1.8.1
+scikit-learn==1.1.1
+nltk==3.7
+beautifulsoup4==4.11.1
+spacy==3.3.0
+python-multipart
+uvloop
+pyjwt
+httptools
