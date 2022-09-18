@@ -14,10 +14,6 @@ The **selected model is Xception pretrained (Transfert Learning) on imagenet, an
 
 **This project was made as part of my Machine Learning Engineer & Data Science degree at OpenClassrooms & CentraleSupélec.**
 
-Therefore, **comments and Markdown cells are in French** (mandatory at OpenClassrooms). Don't hesitate to contact me if you have any question.
-
 nb. OpenClassrooms is the largest online education platform in France, and delivers state recognised University level diplomas.
 
-
-
-
+Therefore, **comments and Markdown cells are in French** (mandatory at OpenClassrooms). Don't hesitate to contact me if you have any question.
