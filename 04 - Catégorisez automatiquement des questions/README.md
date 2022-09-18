@@ -25,7 +25,7 @@ A simple sklearn MultiOutputClassifier with logistic regressions trained on TF-I
 - [notebook_exploration.ipynb](https://github.com/fauconnier-n/stackoverflow_app/blob/master/Notebooks/notebook_exploration.ipynb) contains all the data cleaning, pre-processing, EDA, and some (failed) attempts at Dimentional Reduction
 - [notebook_test.ipynb](https://github.com/fauconnier-n/stackoverflow_app/blob/master/Notebooks/notebook_test.ipynb) contains feature extractions (TF-IDF, Word2Vec, BERT, Universal Sentence Encoder) supervised and unsupervised learning (Latent Dirichlet Allocation). The more advanced feature extractions methods would probably offer better performances used with a deep neural network instead of the MultiOutputClassifier.
 
-This project was made as part of my Machine Learning Engineer & Data Science degree at OpenClassrooms & CentraleSupélec.
+**This project was made as part of my Machine Learning Engineer & Data Science degree at OpenClassrooms & CentraleSupélec.**
 
 Therefore, **comments and Markdown cells are in French** (mandatory at OpenClassrooms). Don't hesitate to contact me if you have any question.
 
