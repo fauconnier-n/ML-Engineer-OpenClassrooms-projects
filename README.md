@@ -1,7 +1,9 @@
 # ML Engineer training projects
 
 ### Context
-These projects were made as part of my Machine Learning Engineer & Data Scientist training at OpenClassrooms & CentraleSupélec (an Engineering School part of Paris-Saclay University).
+These projects were made as part of my Machine Learning Engineer & Data Scientist training at **OpenClassrooms & CentraleSupélec** (an Engineering School part of Paris-Saclay University).
+
+nb. OpenClassrooms is the largest online education platform in France, and delivers state recognised University level diplomas.
 
 Therefore, **comments and Markdown cells are in French** (mandatory at OpenClassrooms).
 
