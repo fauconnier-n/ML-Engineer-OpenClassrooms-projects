@@ -1,7 +1,7 @@
 # CO2 emissions & energy consumption prediction of Seattle's buildings
 
  The dataset is available on Seattle's [open data platform](https://data.seattle.gov/).
- It contains the caracteristic of the buildings, their CO2 emissins and energy consumption.
+ It contains the caracteristic of the buildings, their CO2 emissions and energy consumption.
  
  This project is focused on using Machine Learning to predict yearly CO2 emissions and energy consumption of buildings given their characteristics.
 
