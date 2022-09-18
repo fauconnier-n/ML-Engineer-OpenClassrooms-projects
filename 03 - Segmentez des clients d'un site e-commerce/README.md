@@ -9,7 +9,7 @@
 ## Files
 - [POlist_01_notebookanalyse.ipynb](https://github.com/fauconnier-n/ML-Engineer-OpenClassrooms-projects/blob/main/03%20-%20Segmentez%20des%20clients%20d'un%20site%20e-commerce/POlist_01_notebookanalyse.ipynb) : Data Cleaning & Exploratory Data Analysis 
 - [POlist_02_notebookessais.ipynb](https://github.com/fauconnier-n/ML-Engineer-OpenClassrooms-projects/blob/main/03%20-%20Segmentez%20des%20clients%20d'un%20site%20e-commerce/POlist_02_notebookessais.ipynb) : feature selection, training (KMeans, DBScan, agglomerative clustering, PCA) and analysis of the clusters
-- [POlist_03_notebooksimulation.ipynb](https://github.com/fauconnier-n/ML-Engineer-OpenClassrooms-projects/blob/main/03%20-%20Segmentez%20des%20clients%20d'un%20site%20e-commerce/POlist_03_notebooksimulation.ipynb) : this notebook contains an analysis to find the ideal retraining frequency of the model selected previously (KMeans)
+- [POlist_03_notebooksimulation.ipynb](https://github.com/fauconnier-n/ML-Engineer-OpenClassrooms-projects/blob/main/03%20-%20Segmentez%20des%20clients%20d'un%20site%20e-commerce/POlist_03_notebooksimulation.ipynb) : this notebook contains, we are looking for the ideal retraining frequency of the model selected previously (KMeans)
 
 **This project was made as part of my Machine Learning Engineer & Data Science degree at OpenClassrooms & CentraleSupélec.**
 
