@@ -9,7 +9,7 @@ Therefore, **comments and Markdown cells are in French** (mandatory at OpenClass
 
 **"Concevez une application au service de la santé publique"**
 
-This project contains Data Cleaning, Exploratory Data Analysis (uni and multivariate), and Dimensional Reduction (PCA).
+This project contains Data Cleaning, Exploratory Data Analysis, and Dimensional Reduction (PCA).
 
 ### 02 - [CO2 emissions & energy consumption prediction of Seattle's buildings](https://github.com/fauconnier-n/ML-Engineer-OpenClassrooms-projects/tree/main/02%20-%20Anticipez%20les%20besoins%20en%20consommation%20de%20b%C3%A2timents)
 
