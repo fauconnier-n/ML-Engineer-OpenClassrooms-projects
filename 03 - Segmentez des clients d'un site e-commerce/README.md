@@ -17,4 +17,4 @@
 
 nb. OpenClassrooms is the largest online education platform in France, and delivers state recognised University level diplomas.
 
-Therefore, **comments and Markdown cells are in French** (mandatory at OpenClassrooms). Don't hesitate to contact me if you have any question.
+Therefore, **comments and Markdown cells are in French** (mandatory at OpenClassrooms).
