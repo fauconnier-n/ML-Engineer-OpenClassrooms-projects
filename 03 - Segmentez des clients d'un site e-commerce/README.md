@@ -1,9 +1,11 @@
 # Customer segmentation of an e-commerce platform
 
  The dataset is available on [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
- It contains various data on the sellers, buyers (customers) and products sold on the Brazilian e-commerce platform "Olist Store".
+ It contains various data on the sellers, buyers (customers) and products sold on the Brazilian e-commerce platform Olist.
  
- The goal of this project is to use Unsupervised Machine Learning to segment the customers in clusters usable/interpretable by a CRM team. The selected model is trained on features of a standard "RFM" segmentation (Recency, Frequency, Monetary Value of a customer and its orders) and the average review score left by the customer.
+ The goal of this project is to use Unsupervised Machine Learning to segment the customers in clusters usable/interpretable by a CRM team. 
+ 
+ **The final model (Kmeans) is trained on features of a standard "RFM" segmentation (Recency, Frequency, Monetary Value of a customer and its orders) and the average review score left by the customer.**
  
 
 ## Files
