@@ -1,9 +1,11 @@
 # ML Engineer training projects
 
-## Context
+### Context
 These projects were made as part of my Machine Learning Engineer & Data Scientist training at OpenClassrooms & CentraleSupélec (an Engineering School part of Paris-Saclay University).
 
 Therefore, **comments and Markdown cells are in French** (mandatory at OpenClassrooms).
+
+## The projects
 
 ### 01 - [Exploratory Data Analysis of the Open Food Facts database](https://github.com/fauconnier-n/ML-Engineer-OpenClassrooms-projects/tree/main/01%20-%20Concevez%20une%20application%20au%20service%20de%20la%20sant%C3%A9%20publique)
 
