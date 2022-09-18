@@ -1,1 +1,18 @@
+# CO2 emissions & energy consumption prediction of Seattle's buildings
+
+ The dataset is available on Seattle's [open data platform](https://data.seattle.gov/).
+ It contains the caracteristic of the buildings, their CO2 emissins and energy consumption.
+ 
+ This project is focused on using Machine Learning to predict yearly CO2 emissions and energy consumption of buildings given their characteristics.
+
+## Files
+- [Pélec_01_exploration.ipynb](https://github.com/fauconnier-n/ML-Engineer-OpenClassrooms-projects/blob/main/02%20-%20Anticipez%20les%20besoins%20en%20consommation%20de%20b%C3%A2timents/P%C3%A9lec_01_exploration.ipynb) : Data Cleaning & Exploratory Data Analysis 
+- [PSanté_02_notebookexploration.ipynb](https://github.com/fauconnier-n/ML-Engineer-OpenClassrooms-projects/blob/main/01%20-%20Concevez%20une%20application%20au%20service%20de%20la%20sant%C3%A9%20publique/PSant%C3%A9_02_notebookexploration.ipynb) : feature engineering and selection, training of the models, hyperparameter optimization (GridSearchCV) of the selected models (Ridge Regression and XGBoost), then final model evaluation
+
+**This project was made as part of my Machine Learning Engineer & Data Science degree at OpenClassrooms & CentraleSupélec.**
+
+Therefore, **comments and Markdown cells are in French** (mandatory at OpenClassrooms). Don't hesitate to contact me if you have any question.
+
+nb. OpenClassrooms is the largest online education platform in France, and delivers state recognised University level diplomas.
+
 
