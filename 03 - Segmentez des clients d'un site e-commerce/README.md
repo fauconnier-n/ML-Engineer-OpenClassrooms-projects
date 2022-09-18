@@ -1,4 +1,4 @@
-# Customer segmentation of an e-commerce platform
+# Segmentation of an e-commerce platform's customer database
 
  The dataset is available on [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
  It contains various data on the sellers, buyers (customers) and products sold on the Brazilian e-commerce platform Olist.
