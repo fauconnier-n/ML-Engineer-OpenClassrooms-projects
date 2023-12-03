@@ -25,7 +25,7 @@ It contains EDA, feature engineering & selection, training of the models, hyperp
 
 ### 03 - [Segmentation of an e-commerce platform's customer database](https://github.com/fauconnier-n/ML-Engineer-OpenClassrooms-projects/tree/main/03%20-%20Segmentez%20des%20clients%20d'un%20site%20e-commerce)
 
-**"Segmentez des clients d'un site e-commerce"**
+**"Segmentez les clients d'un site e-commerce"**
 
 The goal of this project is to use Unsupervised Machine Learning to segment customers in clusters usable/interpretable by a CRM team.
 
